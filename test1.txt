@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7AD6-6D85
+
+ Directory of C:\Git\GitHub\TestHub1
+
+11/20/2019  04:10 PM    <DIR>          .
+11/20/2019  04:10 PM    <DIR>          ..
+11/20/2019  04:10 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  42,511,577,088 bytes free
